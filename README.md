@@ -2,7 +2,7 @@
 
 This is the working area for the individual Internet-Draft, "Arm's Platform Security Architecture (PSA) Attestation Verifier Endorsements".
 
-* [Editor's Copy](https://thomas-fossati.github.io/corim-psa/#go.draft-fdb-rats-psa-endorsements.html)
+* [Editor's Copy](https://arm-attestation-drafts.github.io/corim-psa/#go.draft-fdb-rats-psa-endorsements.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-fdb-rats-psa-endorsements)
 * [Individual Draft](https://datatracker.ietf.org/doc/html/draft-fdb-rats-psa-endorsements)
 * [Compare Editor's Copy to Individual Draft](https://thomas-fossati.github.io/corim-psa/#go.draft-fdb-rats-psa-endorsements.diff)
